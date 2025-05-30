@@ -42,7 +42,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className='font-semibold text-black'>Email</h3>
-                  <p className='text-black'>hello@luxeinteriors.com</p>
+                  <p className='text-black'>hello@Sitka_Interiors.com</p>
                 </div>
               </div>
 
@@ -52,9 +52,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className='font-semibold text-black'>Address</h3>
-                  <p className='text-black'>
-                    123 Design Street, Creative District, NY 10001
-                  </p>
+                  <p className='text-black'>Guwahati, Assam</p>
                 </div>
               </div>
             </div>

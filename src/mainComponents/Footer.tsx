@@ -76,11 +76,10 @@ const Footer = () => {
               <h3 className='text-lg font-semibold'>Contact</h3>
               <ul className='space-y-2 text-white/70'>
                 <li>+1 (555) 123-4567</li>
-                <li>hello@luxeinteriors.com</li>
+                <li>hello@sitkainteriors.com</li>
                 <li>
-                  123 Design Street
+                  Guwahati, Assam
                   <br />
-                  Creative District, NY 10001
                 </li>
               </ul>
             </div>
